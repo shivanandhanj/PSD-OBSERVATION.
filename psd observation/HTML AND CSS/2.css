@@ -1,0 +1,40 @@
+input{
+    border-radius: 4px 2px;
+    padding: 5px;
+    font-size:15px;
+}
+.he{
+    text-align: center;
+}
+input[type="submit"]{
+    background-color: rgb(205, 43, 226);
+    align-content:center;
+    border: none;
+    cursor:alias;
+    width:100%;
+    font-size:30px;
+    padding:10px;
+}
+input[type="submit"]:hover{
+    color:yellow
+}
+.container{
+    background-color:cadetblue;
+    padding: 20px;
+    border: 4px solid greenyellow;
+    border-radius: 20px;
+}
+div>p>a>center{
+    background-color: blue;
+    color:crimson;
+    font-size: x-large;
+    text-align: center;
+}
+.pay{
+    font-style: normal;
+}
+body{
+    font-family: 'pacifico';
+}
+
+
